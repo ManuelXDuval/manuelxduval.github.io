@@ -1,5 +1,5 @@
 ### Hello/Bonjour, I am Manuel, aka [double-strand](https://double-strand.github.io/)
-- I am a biology data scientist
+- I am a biologist.  
 
 ## connections. 
 #### [https://github.com/ManuelXDuval](https://github.com/ManuelXDuval)
@@ -9,3 +9,5 @@
 [Contact Me](mailto:manuelxduval@double-strand.com)
 
 #### [lifescourcecode](https://lifesourcecode.wordpress.com/the-error-term/)
+  
+---  
