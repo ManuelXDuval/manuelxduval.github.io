@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Manuel X Duval"
 date:   2024-06-07 22:34:50 -0400
 categories: jekyll update
 ---
