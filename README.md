@@ -1,2 +1,0 @@
-# manuelxduval.github.io
-paracelsus
