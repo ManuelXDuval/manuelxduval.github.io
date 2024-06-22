@@ -4,4 +4,12 @@
 
 layout: home
 ---
-Bioinformatics/Senior scientist with expertise in Biotech and Agro
+<img align="right" src="assets/MxDuval_headshot.jpg" alt="drawing" width="180"/>
+
+
+## Manuel X. Duval, Bioinformatics Scientist     
+### Serve the Biotech and AgroTech industries.
+### My trade:  
+  + Address biotech industry needs by sourcing relevant data sets and analysis methods.  
+  + Adopt reproducible research principles.  
+  + Apply predictive modeling methods to identify genomic quantity(ies) contributing to the identification of novel therapeutic targets, target validation, disease selection/expansion, and identification of translational biomarkers.
