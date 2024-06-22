@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Bioinformatics/Senior scientist with expertise in Biotech and Agro
