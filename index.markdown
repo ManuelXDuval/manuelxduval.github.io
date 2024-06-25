@@ -13,6 +13,13 @@ layout: home
   + Adopt reproducible research principles.  
   + Apply predictive modeling methods to identify genomic quantity(ies) contributing to the identification of novel therapeutic targets, target validation, disease selection/expansion, and identification of translational biomarkers.  
   + Build and validate models with genomics predictors aimed at predicting endpoints.  
+  + Extensive user of biological data, including DNA sequence data.  
+  + Familiar with current molecular biology, nextgen sequencing technologies and genome editing technologies.  
 
 ### Applied technologies:  
-  + R  
+  + R Project for Statistical Computing  
+  + Genomics  
+  + Bioinformatics  
+  + Linux/Cloud Computing  
+  + NGS - RNA-Seq  
+  + Machine learning    
