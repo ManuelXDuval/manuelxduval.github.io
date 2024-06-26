@@ -6,15 +6,17 @@ permalink: /Academics/
 
 ## Education
 
-* <b>Post-baccalaureate Non-degree, Computer Science</b> (June 2020)     
-[Texas A&M University, College Station, TX](https://www.tamu.edu/index.html)  
+* <b>Post-baccalaureate Non-degree, Computer Science</b> (June 2020)  
+[Texas A&M University, College Station, TX](https://www.tamu.edu/index.html)     <img align="left" src="https://www.tamu.edu/_files/images/logos/primaryTAM.png" alt="UGA" width="60"/>  
 (C and Java Programming.  Data Modeling and Relational Databases)  
-
+<br />  
 * <b>PhD, Molecular and Microbiology</b> (October 1995)     
-[Université Grenoble Alpes, Grenoble, France](https://www.univ-grenoble-alpes.fr/english/)
-
+[Université Grenoble Alpes, Grenoble, France](https://www.univ-grenoble-alpes.fr/english/)     <img align="left" src="https://www.univ-grenoble-alpes.fr/uas/SITEUI/UGA_LOGO_ACCUEIL/logo+bleu.svg" alt="UGA" width="60"/>    
+  
+<br />     
 * <b>MS, Biochemistry</b> (June 1990)      
-[Aix-Marseille University, Faculté des Sciences, Marseille, France](https://www.univ-amu.fr/fr)
-
+[Aix-Marseille University, Faculté des Sciences, Marseille, France](https://www.univ-amu.fr/en/public/msds-faculty-science)     <img align="left" src="https://www.univ-amu.fr/system/files/2021-01/DIRCOM-Logo_AMU_CMJN.png" alt="AmU" width="90"/>  
+<br />  
+  
 * <b>BS, Math and Life Sciences</b>  (June 1988)  
-[Aix-Marseille University, Faculté des Sciences, Marseille, France](https://www.univ-amu.fr/en)
+[Aix-Marseille University, Faculté des Sciences, Marseille, France ](https://www.univ-amu.fr/en/public/msds-faculty-science)     <img align="left" src="https://www.univ-amu.fr/system/files/2021-01/DIRCOM-Logo_AMU_CMJN.png" alt="AmU" width="90"/>  
