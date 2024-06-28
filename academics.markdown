@@ -21,9 +21,16 @@ permalink: /Academics/
 * <b>BS, Math and Life Sciences</b>  (June 1988)  
 [Aix-Marseille University, Faculté des Sciences, Marseille, France ](https://www.univ-amu.fr/en/public/msds-faculty-science)     <img align="left" src="https://www.univ-amu.fr/system/files/2021-01/DIRCOM-Logo_AMU_CMJN.png" alt="AmU" width="90"/>  
 <br /><br />  
-<hr />
+<hr />  
+### Certifications      
+* <b>Linux Essentials</b> (Oct 2019)    
+Linux Professional Institute  
+[LPI000435511](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000435511/suf9r23592)
 
-### Professional Trainings  
+
+<br /><br />  
+<hr />
+#### Professional Trainings  
 
 *  Data and Models in Engineering, Science and Business [12.156s], MIT, Cambridge, MA, July 2012  
 
