@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Academics
-permalink: /Academics/
+title: Education
+permalink: /Education/
 ---
 
-## Education
 
 * <b>Post-baccalaureate Non-degree, Computer Science</b> (June 2020)  
 [Texas A&M University, College Station, TX](https://www.tamu.edu/index.html){:target="_blank"}     <img align="left" src="https://www.tamu.edu/_files/images/logos/primaryTAM.png" alt="UGA" width="60"/>  
@@ -22,6 +21,7 @@ permalink: /Academics/
 [Aix-Marseille University, Faculté des Sciences, Marseille, France ](https://www.univ-amu.fr/en/public/msds-faculty-science){:target="_blank"}     <img align="left" src="https://www.univ-amu.fr/system/files/2021-01/DIRCOM-Logo_AMU_CMJN.png" alt="AmU" width="90"/>  
 <br /><br />  
 <hr />  
+
 ### Certifications      
 * <b>Linux Essentials</b> (Oct 2019)    
 Linux Professional Institute  

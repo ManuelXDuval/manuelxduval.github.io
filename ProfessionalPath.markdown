@@ -1,5 +1,70 @@
 ---
 layout: page
-title: Professional_Experience
-permalink: /Professional_Path/
+title: Professional Experience
+permalink: /Professional Experience/
 ---
+
+<b>Data Scientist </b>  May 2023 – Current               
+[amplifiDx Inc, Waltham, MA](https://www.amplifidx.com/){:target="_blank"} <img align="left" src="https://images.squarespace-cdn.com/content/v1/60cfdfb0d960081f265cd69d/1624236084863-2986LZ07608EKFVXJMZ3/AmplifiDx+logo.png?format=1500w" alt="CG" width="50"/>  
+* Build and deploy bioinformatics workflows for the design of specific and sensitive Nucleic Acid Amplification Test based assays. Analyze, manage and report experimental data.     
+
+
+<b>Business Analyst II (IT) contractor</b>  Feb 2023 – May 2023              
+[mindlance/Sanofi Pharmaceuticals, Cambridge, MA](https://jobs.sanofi.com/en/cambridgecrossing){:target="_blank"} <img align="left" src="https://cdn.radancy.eu/company/2649/img/logo/sanofi_logo.svg" alt="CG" width="50"/>  
+* Captured user requirements and translated them into features’ requests passed to developers. Applied the Agile scrum methodology.    
+
+
+<b>Data Scientist contractor</b>  Feb 2022 – Dec 2022              
+[InfoJini/EMD Serono, Billerica, MA](https://www.emdserono.com/us-en){:target="_blank"} <img align="left" src="https://www.emdserono.com/content/dam/web/corporate/images/country-specifics/us/media-gallery/logos/EMD-Serono-Logo-Red-RGB.jpg/_jcr_content/mkgaa-renditions/Mkgaa1920x1080" alt="CG" width="50"/>  
+* Delivered Pharmaco-genomics and RNA-Seq data analyses in the context of a clinical trial for auto-immune indications (small-molecule candidate therapy): delivered germline candidate markers of drug exposure inter-individual variability.   
+
+
+<b>Senior Data Scientist</b>  Jun 2019 – July 2021            
+[Clear Gene Inc.,San Carlos, CA](https://www.cleargene.com/){:target="_blank"} <img align="left" src="https://assets-global.website-files.com/63ea091ebc6ce1045a0aa723/63ea091fbc6ce1510c0aa741_ClearGene%2520logo-p-500.png" alt="CG" width="50"/>  
+* Applied statistical machine learning methods to RNA-Seq derived features for the discovery of a predictive model of tumor residual in solid biopsy. Delivered data analyses for the prospective studies and FDA submission.
+* Developed the software environment (R package) for the current development of a diagnostic test.     
+
+<b>Senior Data Analyst</b>  Apr 2018 – Jun 2019           
+[Scipher Medicine Inc., Waltham, MA](https://www.sciphermedicine.com/){:target="_blank"} <img align="left" src="https://www.sciphermedicine.com/wp-content/uploads/2024/04/footer-Scipher-logo.svg" alt="scipher" width="50"/>  
+* Developed an RNA-Seq based predictive test for precision medicine application.
+* Applied statistical machine learning to RNA-Seq data sets in observational studies in the scope of discovering and developing a diagnostic test pertaining to patients’ response to current therapies.
+
+
+<b>Senior Scientist III Bioinformatics</b>  Mar 2016 – Dec 2017            
+[AbbVie Inc., Worcester, MA](https://www.abbvie.com/){:target="_blank"} <img align="left" src="https://www.abbvie.com/content/dam/abbvie-com2/images/logos/abbvie-logo-header.svg" alt="abbvie" width="50"/>  
+* Delivered multi-omics data analyses for Translational Medicine projects, and RNA-Seq exosome technology deployment.  
+* Relying on peripheral blood metabonomics and proteomics data sets, inferred candidates subgroups of patients with a given autoimmune indication.   
+* Developed and deployed R shiny applications in the scope of enabling scientist to perform simple queries on large RNA-Seq data sets.    
+
+<b>Bioinformatician contractor</b>  Aug 2015 – Mar 2016          
+[Commonwealth Sciences, Inc./Agios,  Cambridge, MA](https://www.cwsciences.com/){:target="_blank"} <img align="left" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgd2lkdGg9IjY2NnB4IiBoZWlnaHQ9IjEyMnB4IiB2aWV3Qm94PSIwIDAgNjY2IDEyMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCiAgICA8dGl0bGU+R3JvdXAgMTI8L3RpdGxlPg0KICAgIDxkZWZzPg0KICAgICAgICA8cG9seWdvbiBpZD0icGF0aC0xIiBwb2ludHM9IjAgMTIxLjY0OSA2NjUuNjczIDEyMS42NDkgNjY1LjY3MyAwIDAgMCI+PC9wb2x5Z29uPg0KICAgIDwvZGVmcz4NCiAgICA8ZyBpZD0iU3ltYm9scyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+DQogICAgICAgIDxnIGlkPSJMb2dvIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNTIuMDAwMDAwLCAtOC4wMDAwMDApIj4NCiAgICAgICAgICAgIDxnIGlkPSJHcm91cC0xMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTIuMDAwMDAwLCA4LjAwMDAwMCkiPg0KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik00MjcuNDQxMSw3MC44ODczIEw0MjcuNDQxMSw2NS4wMDAzIEw0MDkuNTE3MSw2Ni45NjIzIEM0MDEuMjc1MSw2OC4xNDAzIDM5NC40NzIxLDcwLjIzNDMgMzk0LjQ3MjEsNzkuMTI5MyBDMzk0LjQ3MjEsODUuMjc5MyAzOTguNzkwMSw4OS45ODkzIDQwNy4wMzIxLDg5Ljk4OTMgQzQxNy4yMzYxLDg5Ljk4OTMgNDI3LjQ0MTEsODMuNTc3MyA0MjcuNDQxMSw3MC44ODczIE00MjcuNzAzMSw4NS42NzEzIEM0MjQuODI1MSw5My4zOTAzIDQxNS43OTcxLDk4LjIzMTMgNDA0LjgwNzEsOTguMjMxMyBDMzkzLjI5NTEsOTguMjMxMyAzODMuNDgyMSw5MS41NTgzIDM4My40ODIxLDc5LjM5MTMgQzM4My40ODIxLDY2LjcwMDMgMzkyLjkwMjEsNjEuMjA2MyA0MDYuMjQ3MSw1OS42MzYzIEw0MjcuNDQxMSw1Ni44ODkzIEw0MjcuNDQxMSw1My4wOTUzIEM0MjcuNDQxMSw0Mi42MjgzIDQyMS4wMzAxLDM4LjE4MDMgNDEyLjAwMzEsMzguMTgwMyBDNDAzLjIzODEsMzguMTgwMyAzOTcuNzQzMSw0Mi43NTkzIDM5Ni45NTgxLDUwLjM0NzMgTDM4Ni40OTIxLDUwLjM0NzMgQzM4Ny43OTkxLDM3LjAwMzMgMzk4LjI2NjEsMjkuNDE0MyA0MTIuMjY1MSwyOS40MTQzIEM0MjguMjI2MSwyOS40MTQzIDQzOC4xNjkxLDM3LjAwMzMgNDM4LjE2OTEsNTIuODMzMyBMNDM4LjE2OTEsODMuMDU1MyBDNDM4LjE2OTEsODcuODk1MyA0MzguNDMwMSw5Mi40NzQzIDQzOS43MzkxLDk2Ljc5MTMgTDQyOC44ODAxLDk2Ljc5MTMgQzQyOC4wOTUxLDkzLjEyODMgNDI3LjcwMzEsODguODExMyA0MjcuNzAzMSw4NS42NzEzIiBpZD0iRmlsbC0xIiBmaWxsPSIjMDAwMDAwIj48L3BhdGg+DQogICAgICAgICAgICAgICAgPHBhdGggZD0iTTQ5OS43ODQ5LDYwLjgxNCBDNDk5Ljc4NDksNDcuMjA4IDQ5MS4yODA5LDM3LjkxOCA0NzkuMTEzOSwzNy45MTggQzQ2Ni4yOTI5LDM3LjkxOCA0NTguNzA0OSw0Ny43MzEgNDU4LjcwNDksNjIuMzgzIEM0NTguNzA0OSw3Ni45MDYgNDY2LjI5MjksODYuOTggNDc5LjExMzksODYuOTggQzQ5MS4yODA5LDg2Ljk4IDQ5OS43ODQ5LDc3LjU2IDQ5OS43ODQ5LDYzLjk1NCBMNDk5Ljc4NDksNjAuODE0IFogTTQ5OC45OTk5LDgyLjkyNCBDNDk1Ljk5MDksODkuMzM1IDQ4OC42NjQ5LDk1LjYxNSA0NzcuMTUwOSw5NS42MTUgQzQ2MC4yNzM5LDk1LjYxNSA0NDcuOTc1OSw4Mi45MjQgNDQ3Ljk3NTksNjIuMzgzIEM0NDcuOTc1OSw0Mi42MjggNDYwLjI3MzksMjkuNDE1IDQ3Ny4xNTA5LDI5LjQxNSBDNDg4LjY2NDksMjkuNDE1IDQ5Ni4yNTI5LDM2LjIxOCA0OTkuMzkxOSw0Mi40OTggTDQ5OS4zOTE5LDMwLjk4NSBMNTA5Ljk4OTksMzAuOTg1IEw1MDkuOTg5OSw5MS44MiBDNTA5Ljk4OTksMTEyLjc1MiA0OTYuMzgzOSwxMjEuNjQ5IDQ3OC44NTE5LDEyMS42NDkgQzQ2My4wMjE5LDEyMS42NDkgNDUyLjI5MzksMTE1LjIzOSA0NDkuNjc3OSwxMDIuNDE4IEw0NjAuNjY2OSwxMDIuNDE4IEM0NjIuODkwOSwxMTAuNjYgNDY5LjgyNDksMTEzLjI3NiA0NzguNzIxOSwxMTMuMjc2IEM0OTEuNjczOSwxMTMuMjc2IDQ5OC45OTk5LDEwNi4zNDIgNDk4Ljk5OTksOTIuNjA1IEw0OTguOTk5OSw4Mi45MjQgWiIgaWQ9IkZpbGwtMyIgZmlsbD0iIzAwMDAwMCI+PC9wYXRoPg0KICAgICAgICAgICAgICAgIDxtYXNrIGlkPSJtYXNrLTIiIGZpbGw9IndoaXRlIj4NCiAgICAgICAgICAgICAgICAgICAgPHVzZSB4bGluazpocmVmPSIjcGF0aC0xIj48L3VzZT4NCiAgICAgICAgICAgICAgICA8L21hc2s+DQogICAgICAgICAgICAgICAgPGcgaWQ9IkNsaXAtNiI+PC9nPg0KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik01MjIuNDIzLDk2Ljc5MiBMNTMzLjI4Miw5Ni43OTIgTDUzMy4yODIsMzAuOTg1IEw1MjIuNDIzLDMwLjk4NSBMNTIyLjQyMyw5Ni43OTIgWiBNNTI3Ljc4Niw0LjAzNCBMNTI3Ljc4Niw0LjAzNCBDNTMxLjE4Miw0LjAzNCA1MzMuOTM1LDYuNzg3IDUzMy45MzUsMTAuMTgzIEw1MzMuOTM1LDExLjA5OSBDNTMzLjkzNSwxNC40OTUgNTMxLjE4MiwxNy4yNDggNTI3Ljc4NiwxNy4yNDggQzUyNC4zOSwxNy4yNDggNTIxLjYzNywxNC40OTUgNTIxLjYzNywxMS4wOTkgTDUyMS42MzcsMTAuMTgzIEM1MjEuNjM3LDYuNzg3IDUyNC4zOSw0LjAzNCA1MjcuNzg2LDQuMDM0IEw1MjcuNzg2LDQuMDM0IFoiIGlkPSJGaWxsLTUiIGZpbGw9IiMwMDAwMDAiIG1hc2s9InVybCgjbWFzay0yKSI+PC9wYXRoPg0KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik01NzUuMTQ0Miw4OS41OTYzIEM1ODcuOTY1Miw4OS41OTYzIDU5NS42ODQyLDc5Ljc4MzMgNTk1LjY4NDIsNjMuOTUzMyBDNTk1LjY4NDIsNDguMTIzMyA1ODcuOTY1MiwzOC4xODAzIDU3NS4xNDQyLDM4LjE4MDMgQzU2Mi4zMjMyLDM4LjE4MDMgNTU0LjYwNDIsNDguMTIzMyA1NTQuNjA0Miw2My45NTMzIEM1NTQuNjA0Miw3OS43ODMzIDU2Mi4zMjMyLDg5LjU5NjMgNTc1LjE0NDIsODkuNTk2MyBNNTc1LjE0NDIsOTguMzYyMyBDNTU2Ljk1ODIsOTguMzYyMyA1NDMuODc1Miw4NS4xNDgzIDU0My44NzUyLDYzLjk1MzMgQzU0My44NzUyLDQyLjc1OTMgNTU2Ljk1ODIsMjkuNDE0MyA1NzUuMTQ0MiwyOS40MTQzIEM1OTMuMzMwMiwyOS40MTQzIDYwNi40MTIyLDQyLjc1OTMgNjA2LjQxMjIsNjMuOTUzMyBDNjA2LjQxMjIsODUuMTQ4MyA1OTMuMzMwMiw5OC4zNjIzIDU3NS4xNDQyLDk4LjM2MjMiIGlkPSJGaWxsLTciIGZpbGw9IiMwMDAwMDAiIG1hc2s9InVybCgjbWFzay0yKSI+PC9wYXRoPg0KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik02MjEuODQ0NCw3Ny4yOTg0IEM2MjIuNjI5NCw4Ni4zMjU0IDYzMS4wMDI0LDkwLjExOTQgNjM5Ljg5OTQsOTAuMTE5NCBDNjQ4LjkyNjQsOTAuMTE5NCA2NTUuNDY3NCw4NS45MzM0IDY1NS40Njc0LDc4Ljg2ODQgQzY1NS40Njc0LDc0LjAyNzQgNjUyLjMyNzQsNzAuODg3NCA2NDMuOTU0NCw2OS4zMTg0IEw2MzIuMzExNCw2Ni45NjI0IEM2MjEuNzEzNCw2NS4wMDA0IDYxMy45OTQ0LDYwLjY4MzQgNjEzLjk5NDQsNDkuMTcwNCBDNjEzLjk5NDQsMzguMDQ5NCA2MjMuOTM4NCwyOS40MTQ0IDYzOC40NTk0LDI5LjQxNDQgQzY1My42MzU0LDI5LjQxNDQgNjYyLjkyNDQsMzUuOTU2NCA2NjQuMjMzNCw0OC4zODU0IEw2NTQuMTU4NCw0OC4zODU0IEM2NTMuMzc0NCw0MS43MTI0IDY0Ny40ODc0LDM3Ljc4NzQgNjM4LjQ1OTQsMzcuNzg3NCBDNjI5LjY5NDQsMzcuNzg3NCA2MjQuMDY5NCw0Mi4xMDU0IDYyNC4wNjk0LDQ4LjUxNjQgQzYyNC4wNjk0LDU0LjE0MTQgNjI3Ljk5MzQsNTYuNDk2NCA2MzUuNTgxNCw1Ny45MzY0IEw2NDguNjY0NCw2MC40MjE0IEM2NTkuMzkyNCw2Mi41MTQ0IDY2NS42NzI0LDY3Ljc0NzQgNjY1LjY3MjQsNzguMzQ1NCBDNjY1LjY3MjQsODkuODU4NCA2NTQuODEzNCw5OC4zNjE0IDY0MC4wMzA0LDk4LjM2MTQgQzYyNC4zMjk0LDk4LjM2MTQgNjEyLjU1NTQsOTEuNDI4NCA2MTEuMzc4NCw3Ny4yOTg0IEw2MjEuODQ0NCw3Ny4yOTg0IFoiIGlkPSJGaWxsLTgiIGZpbGw9IiMwMDAwMDAiIG1hc2s9InVybCgjbWFzay0yKSI+PC9wYXRoPg0KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMjAuMDg4LDUwLjMyNDIgQzExNy4yNiw0OC42MTIyIDExMi44MDMsNDYuMDY2MiAxMDkuODA2LDQ0LjcxMjIgQzEwMy40NTcsNDguNzQ0MiA5Ni4yMjMsNTMuNTk1MiA4OS4zNyw1Ni43MzYyIEM2Mi41NDksNzEuNjI5MiAyNy42MTUsNzguOTg3MiAwLDYyLjE1MTIgQzM2LjI5OCw5Ni44MDYyIDg2LjU3Miw3Ni42MzkyIDEyMi4wNTUsNTEuNTEzMiBMMTIwLjA4OCw1MC4zMjQyIFoiIGlkPSJGaWxsLTkiIGZpbGw9IiMwMDdCOUYiIG1hc2s9InVybCgjbWFzay0yKSI+PC9wYXRoPg0KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMjQuNTI2LDM2LjUyNjIgQzEzNS41MzgsNDIuMDMwMiAxMzIuMDc0LDQ1LjE4MTIgMTM5LjgwNCwzOC42NTkyIEMxNDkuODE3LDMxLjcxMDIgMTYxLjI2MSwyNS4xMjEyIDE3Mi42NjEsMjAuNzUzMiBDMjIzLjkzNywtMC4xNDE4IDI3OS4xNzgsMTkuMDU0MiAzMjEuODM0LDUwLjE2MTIgQzI4MS44OTMsMTcuMjA1MiAyMjguMDU0LC0xMS43NzI4IDE3NS4yODksNC44MjAyIEMxNTUuNTA4LDEwLjM0MTIgMTM4LjY5NSwyMy4xNzYyIDEyMi43NzgsMzUuNjE5MiBMMTI0LjUyNiwzNi41MjYyIFoiIGlkPSJGaWxsLTEwIiBmaWxsPSIjMDA3QjlGIiBtYXNrPSJ1cmwoI21hc2stMikiPjwvcGF0aD4NCiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMzQ5LjQzNjcsNjguMjI5NiBDMzUxLjkzMjcsNjUuODE5NiAzNTYuOTYyNyw2MC45NTY2IDM1OS40NTk3LDU4LjU0MDYgQzMyMS40ODM3LDkxLjQ4ODYgMjY5Ljc1MzcsMTE3LjU4ODYgMjE5LjY0NzcsOTYuOTc5NiBDMTk3LjU0NTcsODkuMDAyNiAxNzkuNTMyNyw3Mi44NDU2IDE2Mi40NzM3LDU3LjIyMzYgQzEyNi44Nzk3LDI2LjI4MDYgNzYuMTExNywtMS4wODA0IDM4LjYwMTcsNDIuNzcxNiBDNzcuNTUzNywxMy4xNzc2IDEyNS41OTg3LDQzLjYwMzYgMTU2LjU2MTcsNzAuODUyNiBDMTczLjMzNDcsODYuMzgwNiAxODkuODM3NywxMDMuNjQ4NiAyMTEuNTk4NywxMTIuMDkyNiBDMjYxLjQ3MDcsMTMzLjE0NDYgMzEzLjI2MTcsMTAxLjQ1NzYgMzQ5LjQzNjcsNjguMjI5NiIgaWQ9IkZpbGwtMTEiIGZpbGw9IiMwMDdCOUYiIG1hc2s9InVybCgjbWFzay0yKSI+PC9wYXRoPg0KICAgICAgICAgICAgPC9nPg0KICAgICAgICA8L2c+DQogICAgPC9nPg0KPC9zdmc+" alt="agios" width="50"/>  
+* Somatic variants detection and analyses from DNA re-sequencing data, inferred clonality and normal cell content from tumor biopsies molecular data.  
+
+
+<b>Staff Bioinformatician</b>  May 2014 – May 2015          
+[Beckman Coulter Genomics, Danvers, MA](https://www.beckman.com/){:target="_blank"} <img align="left" src="https://media.beckmancoulter.com/-/media/diagnostics/corporate/logos/beckman-logo-svg.svg?rev=a82dc0186fca49bbab9ea6c0f4baba4c&hash=A18C384D39E2A952D38706F761794D7C" alt="beckmancoulter" width="50"/>  
+* Managed and analyzed Bioinformatics, NextGen DNA sequence data.  Maintained whole DNA-Seq (WGS) and RNA-Seq workflows from Illumina HiSeq instruments to data packages delivery to customers.   
+
+<b>Senior Principal Bioinformatics</b>  Jul 2013 – May 2014        
+[Boehringer Ingelheim, Ridgefield, CT](https://www.boehringer-ingelheim.com/about-us/sites-around-world/ridgefield){:target="_blank"} <img align="left" src="https://www.boehringer-ingelheim.com/modules/custom/bi_bicom_header/images/primary-logo-accent.svg" alt="BI" width="50"/>  
+* Knowledge management bioinformatics, cardiovascular and metabolic disease drug discovery.  
+* Delivered RNA-Seq data analyses in the scope of comparing the molecular effects of standard of care with candidate therapies.
+
+
+<b>Bioinformatics Scientist</b>  Feb 2012 – May 2013      
+[Enumeral Biomedical, Cambridge, MA](https://web.archive.org/web/20160104223810/http://www.enumeral.com/r-and-d/r-and-d-overview.php){:target="_blank"} <img align="left" src="https://web.archive.org/web/20160105122128im_/http://www.enumeral.com/img/logo-enumeral.png" alt="Enumeral" width="50"/>  
+* Designed and implemented in-house antibody DNA sequence analyses workflow.  
+* Deployed solutions for cell cytometry data analyses for the development of novel antibody based biotherapeutics.  
+
+
+<b>Senior Principal Scientist</b>  Jan 2001 – Aug -2011      
+[Pfizer Inc. Groton/New London, CT](https://www.pfizer.com/){:target="_blank"} <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Pfizer_logo.svg" alt="PGRD" width="50"/>    
+* Managed Pharmacogenomics data in a clinical development lab.  Provided and delivered statistical data analyses services for clinical and translational research programs.  Conducted OMICs’ technologies evaluation in the scope of promoting the most relevant assays in terms of Drug Discovery and Development.  
+* Deployed an enterprise information system for the storage and analysis of transcriptomics data associated with their cognate co-variates’ attributes.  Supplied Computational Biology analyses and supported the preclinical models business needs with Bioinformatics services.  
+
+<b>Research Scientist</b>  Jan 1996 – Dec -2000    
+[Texas A&M University, College Station, TX](https://www.bio.tamu.edu/){:target="_blank"} <img align="left" src="https://www.bio.tamu.edu/wp-content/uploads/2019/07/header1.png" alt="TamuBio" width="50"/>  
+* Conducted high-throughput DNA sequence data capture and data analyses.
+* Set-up and applied a bioinformatics data pipeline that delivered an annotated database of more than 10,000 non-redundant Expressed Sequence Tags (EST) from raw Sanger-based DNA sequence data.  Developed and deployed a DNA micro array platform.
+* Contributed to the establishment of the Texas A&M Laboratory for Functional Genomics with the set-up of DNA micro array production (printed arrays).  
+<br />
