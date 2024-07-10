@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Academics
+title: Professional_Experience
 permalink: /Professional_Path/
 ---
