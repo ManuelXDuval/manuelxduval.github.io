@@ -12,8 +12,8 @@ layout: home
   + Address biotech industry needs by sourcing relevant data sets and analysis methods.  
   + Adopt reproducible research principles.  
   + Apply predictive modeling methods to identify genomic quantity(ies) contributing to the identification of novel therapeutic targets, target validation, disease selection/expansion, and identification of translational biomarkers.  
-  + Build and validate models with genomics predictors aimed at predicting endpoints.  
-  + Extensive user of biological data, including DNA sequence data.  
+  + Build and validate models with genomics' features aimed at predicting endpoints.  
+  + Extensive user of biological data, including nucleic-acid sequencing data.  
   + Familiar with current molecular biology, nextgen sequencing technologies and genome editing technologies.  
 
 ### Applied technologies:  
