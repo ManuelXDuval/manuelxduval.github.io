@@ -4,7 +4,7 @@ title: Professional Experience
 permalink: /Professional Experience/
 ---
 
-<b>Data Scientist </b>  May 2023 – Current               
+<b>Bioinformatics Scientist </b>  May 2023 – Current               
 [amplifiDx Inc, Waltham, MA](https://www.amplifidx.com/){:target="_blank"} <img align="left" src="https://images.squarespace-cdn.com/content/v1/60cfdfb0d960081f265cd69d/1624236084863-2986LZ07608EKFVXJMZ3/AmplifiDx+logo.png?format=1500w" alt="CG" width="50"/>  
 * Build and deploy bioinformatics workflows for the design of specific and sensitive Nucleic Acid Amplification Test based assays. Analyze, manage and report experimental data.     
 
