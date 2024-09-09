@@ -2,6 +2,7 @@
 layout: page
 title: Professional Experience
 permalink: /Professional Experience/
+order: 1
 ---
 
 <b>Bioinformatics Scientist </b>  May 2023 – Current               
@@ -9,7 +10,7 @@ permalink: /Professional Experience/
 * Build and deploy bioinformatics workflows for the design of specific and sensitive Nucleic Acid Amplification Test based assays. Analyze, manage and report experimental data.     
 
 
-<b>Business Analyst II (IT) contractor</b>  Feb 2023 – May 2023              
+<b>Business Analyst II (IT) contractor</b>  Feb 2023 – May 2023              
 [mindlance/Sanofi Pharmaceuticals, Cambridge, MA](https://jobs.sanofi.com/en/cambridgecrossing){:target="_blank"} <img align="left" src="https://cdn.radancy.eu/company/2649/img/logo/sanofi_logo.svg" alt="CG" width="50"/>  
 * Captured user requirements and translated them into features’ requests passed to developers. Applied the Agile scrum methodology.    
 

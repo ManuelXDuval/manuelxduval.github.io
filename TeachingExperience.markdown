@@ -2,6 +2,7 @@
 layout: page
 title: Teaching Experience
 permalink: /Teaching Experience/
+order: 3
 ---
 
 <b>Graduate Professional Studies Instructor</b>  Mar 2014 – Jun 2015  

@@ -3,6 +3,7 @@ layout: page
 title: Education
 permalink: /Education/
 toc: true
+order: 4
 ---
 * TOC
 {:toc} 
