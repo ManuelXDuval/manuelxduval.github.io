@@ -23,3 +23,5 @@ layout: home
   + Linux/Cloud Computing  
   + NGS - RNA-Seq  
   + Machine learning    
+<hr />
+<object data="../assets/MxDuval_Resume.pdf" width="1000" height="300" type='application/pdf'></object>
