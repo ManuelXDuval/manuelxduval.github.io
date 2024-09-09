@@ -4,9 +4,14 @@ title: Publications
 permalink: /Publications/
 toc: true
 ---
+
+[ORCID](https://orcid.org/0000-0001-5395-4543){:target="_blank"}   
+<hr />
+  
 * TOC
 {:toc}  
-
+  
+<hr />  
 # Peer-reviewed journal articles   
   
 * de Leeuw, MA and Duval, M. (2020), The Presence of Periodontal Pathogens in Gastric Cancer. [Explor Res Hypothesis Med. 2020;5(3):87-96](https://dx.doi.org/10.14218/ERHM.2020.00024){:target="_blank"}   
@@ -50,7 +55,7 @@ toc: true
 * Duval, M., Job, C., Alban, C., Sparace, S., Douce, R. and Job, D., (1993), Synthesis and degradation of a novel biotinyl protein in developing and germinating pea seeds.  [C.R. Acad. Sci. Paris., 316, 1463 – 70](https://eurekamag.com/research/002/706/002706721.php){:target="_blank"}   
   
 * Duval, M., Job, C. and Job, D., (1993), An immunoenzymatic study of the large subunits of wheat germ RNA polymerase II.  Application to the study of an immobilized eukaryotic RNA polymerase.  [C.R. Acad. Sci. Paris., 316, Série III, 59 – 65](https://eurekamag.com/research/075/314/075314180.php){:target="_blank"}    
-
+<hr />  
   
 # Book chapters     
   
@@ -59,7 +64,8 @@ toc: true
 * Duval, M., (2002), DNA array information workflow and data management.  In DNA Array Image Analysis: Nuts & Bolts. (2002). United States: DNA Press. (eds S. Sha and G. Kamberova), [DNA Press ISBN 0-9664027-5-8](https://search.worldcat.org/en/title/606912455){:target="_blank"}  
   
 * Chuang, H.W., Hsieh, T.F., Duval, M. and Thomas, T.L., (2002), Genomic analysis of Arabidopsis gene expression in response to a systemic fungicide.  In Genomics of Plants and Fungi, (eds. R.A. Prade and H.J.Bohnert), [CRC Press  pp 237-253. ISBN 13: 9780824741259](https://www.routledge.com/Genomics-of-Plants-and-Fungi/Prade-Bohnert/p/book/9780824741259){:target="_blank"}  
-
+  
+<hr />  
 # Patents  
     
 * Sequence Conversion Reaction (Filing Date: 2022), Schoenbrunner, N. and Duval, M., Assigned to BONADEA DIAGNOSTICS, LLC [WO/2023/107713](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023107713){:target="_blank"}   
@@ -70,3 +76,4 @@ toc: true
   
 * Patent: Seed specific biotinylated protein, SBP65, from leguminous plants (Filing Date: 1998),  De Rose, R., Douce, R., Duval, M., Job, C. and Job, D. Assigned to RHONE-POULENC AGROCHIMIE [US5837820A](https://patents.google.com/patent/US5837820A/en){:target="_blank"}    
 
+<hr />
