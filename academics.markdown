@@ -2,9 +2,13 @@
 layout: page
 title: Education
 permalink: /Education/
+toc: true
 ---
-
-
+* TOC
+{:toc} 
+  
+# Academic degrees  
+  
 * <b>Post-baccalaureate Non-degree, Computer Science</b> (June 2020)  
 [Texas A&M University, College Station, TX](https://www.tamu.edu/index.html){:target="_blank"}     <img align="left" src="https://www.tamu.edu/_files/images/logos/primaryTAM.png" alt="UGA" width="60"/>  
 (C and Java Programming.  Data Modeling and Relational Databases)  
@@ -22,7 +26,7 @@ permalink: /Education/
 <br /><br />  
 <hr />  
 
-### Certifications      
+# Certifications        
 * <b>Linux Essentials</b> (Oct 2019)    
 Linux Professional Institute  
 [LPI000435511](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000435511/suf9r23592){:target="_blank"}
@@ -30,9 +34,9 @@ Linux Professional Institute
 
 <br /><br />  
 <hr />
-#### Professional Trainings  
+# Professional Trainings  
 
-*  Data and Models in Engineering, Science and Business [12.156s], MIT, Cambridge, MA, July 2012  
+* Data and Models in Engineering, Science and Business [12.156s], MIT, Cambridge, MA, July 2012  
 
 * Umetrics Academy, Multivariate Data Analysis, MKS Instruments, Andover, MA, July 2010  
 
