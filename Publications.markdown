@@ -78,3 +78,6 @@ order: 2
 * Patent: Seed specific biotinylated protein, SBP65, from leguminous plants (Filing Date: 1998),  De Rose, R., Douce, R., Duval, M., Job, C. and Job, D. Assigned to RHONE-POULENC AGROCHIMIE [US5837820A](https://patents.google.com/patent/US5837820A/en){:target="_blank"}    
 
 <hr />
+
+* [Reducing the odds — how to prepare for the impact of big data](https://pharmaceuticalmanufacturer.media/pharmaceutical-industry-insights/reducing-the-odds-how-to-prepare-for-the-impact-of-big-data/){:target="_blank"}  
+
