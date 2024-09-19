@@ -83,3 +83,10 @@ order: 2
 * Reducing the odds — how to prepare for the impact of big data (2018), [European Pharmaceutical manufacturer](https://pharmaceuticalmanufacturer.media/pharmaceutical-industry-insights/reducing-the-odds-how-to-prepare-for-the-impact-of-big-data/){:target="_blank"}  
 
 <hr />
+
+<hr />
+# Blogs    
+
+* Accessing the NCI Genomic Data Commons resource with Bioconductor R packages [RPubs](https://rpubs.com/mxduval/1216185){:target="_blank"}  
+
+<hr />
