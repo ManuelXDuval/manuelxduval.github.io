@@ -32,8 +32,7 @@ order: 4
 Linux Professional Institute  
 [LPI000435511](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000435511/suf9r23592){:target="_blank"}
 
-
-<br /><br />  
+<br />  
 <hr />
 # Professional Trainings  
 
