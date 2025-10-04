@@ -4,8 +4,11 @@ title: Professional Experience
 permalink: /Professional Experience/
 order: 1
 ---
+<b>Biostatistician</b>  Aug 2025 – Current               
+[CND Life Sciences, Brookline, MA](https://cndlifesciences.com/){:target="_blank"} <img align="left" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://cndlifesciences.com/wp-content/uploads/2024/04/cnd.png" alt="CND" width="50"/>  
+* Conduct R-based analytic workflows to test novel hypotheses and build predictive models, directly supporting the development of innovative diagnostics for neurodegenerative indications.     
 
-<b>Bioinformatics Scientist </b>  May 2023 – Current               
+<b>Bioinformatics Scientist</b>  May 2023 – Sep 2025               
 [amplifiDx Inc, Waltham, MA](https://www.amplifidx.com/){:target="_blank"} <img align="left" src="https://images.squarespace-cdn.com/content/v1/60cfdfb0d960081f265cd69d/1624236084863-2986LZ07608EKFVXJMZ3/AmplifiDx+logo.png?format=1500w" alt="CG" width="50"/>  
 * Build and deploy bioinformatics workflows for the design of specific and sensitive Nucleic Acid Amplification Test based assays. Analyze, manage and report experimental data.     
 
