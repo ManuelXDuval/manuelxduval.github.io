@@ -14,6 +14,7 @@ order: 2
   
 <hr />  
 # Peer-reviewed journal articles   
+* Nair, S. S., Chakravarty, D., Balan, S., Hakansson, A., Duval, M., Davicioni, Elai., Liu, Y., ...Tewari, A K. (2025) Prostate cancer in situ autovaccination with the intratumoral viral mimic poly-ICLC: Modulating the cold tumor microenvironment. Med 100879 (2025) (https://www.cell.com/med/fulltext/S2666-6340%2825%2900306-X){:target="_blank"}  
   
 * de Leeuw, MA and Duval, M. (2020), The Presence of Periodontal Pathogens in Gastric Cancer. [Explor Res Hypothesis Med. 2020;5(3):87-96](https://dx.doi.org/10.14218/ERHM.2020.00024){:target="_blank"}   
   
